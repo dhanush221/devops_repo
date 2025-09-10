@@ -1,0 +1,10 @@
+1. pwd  - Prints the current working directory
+2. ls   - Lists files and directories
+3. cd   - Changes directory
+4. mkdir - Creates a new directory
+5. touch - Creates a new empty file
+6. cp   - Copies files or directories
+7. mv   - Moves/renames files or directories
+8. rm   - Deletes files
+9. chmod - Changes file permissions
+10. ps   - Shows running processes
